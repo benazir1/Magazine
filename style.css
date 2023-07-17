@@ -1,0 +1,46 @@
+.box{
+    padding:60px 0px
+}
+h1{
+    font-size: 50px;
+    padding-top:120px;
+    text-align: center;
+}
+h3{
+    font-size: 15px;
+    text-align: center;
+}
+.box-part{
+    background-color: black;
+   border-width: 2px solid;
+   height: 500px;
+    color: white;
+    padding-top: 20px ;
+   
+  
+
+}
+.head{
+    text-align: center;
+    color:white;
+}
+.container{
+    padding:40px 0px;
+   
+}
+.para{
+    padding: 10px 15px 10px 10px;
+}
+.container-1 {
+    display:flex;
+    justify-content: center;
+    padding:20px;
+}
+a{
+    color:white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+img{
+    border-radius: 8px;
+}
